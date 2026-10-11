@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/hero.svg" alt="charlie@sycatle: full stack developer in Angers, TypeScript, Rust and PHP, open to a permanent role from November 2026" width="100%" />
+  <img src="./assets/hero.svg" alt="charlie@sycatle: full stack developer in Angers (TypeScript, Rust, PHP), merged PRs on obscura, gmod-glide and wayland-mcp, open to a permanent role from November 2026" width="100%" />
 </div>
 
 > **Charlie Dallier-Wood** — full stack developer (TypeScript, Rust, PHP), based in Angers. I take over existing products, ship them to production with tests and CI, and work with AI agents through documented workflows. **Open to a CDI from November 2026.**
