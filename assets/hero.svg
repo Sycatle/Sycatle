@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 300" role="img" aria-label="charlie@sycatle terminal: solo builder shipping AI-native SaaS and local-first tools from France">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 300" role="img" aria-label="charlie@sycatle terminal: full stack developer in Angers, TypeScript, Rust and PHP, building with AI agents, open to a permanent role from November 2026">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0b0f14"/>
@@ -31,17 +31,17 @@
     <text x="0" y="0">
       <tspan class="prompt">charlie@sycatle</tspan><tspan class="cmd">:</tspan><tspan class="accent">~</tspan><tspan class="cmd">$ whoami</tspan>
     </text>
-    <text x="0" y="26" class="out">&gt; solo builder · france · automating with ai agents</text>
+    <text x="0" y="26" class="out">&gt; full stack developer · typescript · rust · php · angers</text>
 
     <text x="0" y="64">
       <tspan class="prompt">charlie@sycatle</tspan><tspan class="cmd">:</tspan><tspan class="accent">~</tspan><tspan class="cmd">$ ls projects/</tspan>
     </text>
-    <text x="0" y="90" class="out">&gt; local-jarvis   asap-website-builder   discord-agent</text>
+    <text x="0" y="90" class="out">&gt; whispee   local-jarvis   curriculum-generator   syacode</text>
 
     <text x="0" y="128">
       <tspan class="prompt">charlie@sycatle</tspan><tspan class="cmd">:</tspan><tspan class="accent">~</tspan><tspan class="cmd">$ cat now.md</tspan>
     </text>
-    <text x="0" y="154" class="out">&gt; shipping ai-native SaaS &amp; local-first tools from france</text>
+    <text x="0" y="154" class="out">&gt; open to work · CDI · from november 2026 · angers</text>
 
     <text x="0" y="192">
       <tspan class="prompt">charlie@sycatle</tspan><tspan class="cmd">:</tspan><tspan class="accent">~</tspan><tspan class="cmd">$ </tspan>
