@@ -1,32 +1,32 @@
 <div align="center">
-  <img src="./assets/hero.svg" alt="charlie@sycatle: full stack developer in Angers (TypeScript, Rust, PHP), merged PRs on obscura, gmod-glide and wayland-mcp, open to a permanent role from November 2026" width="100%" />
+  <img src="./assets/hero.svg" alt="charlie@sycatle : développeur full stack à Angers (TypeScript, Rust, PHP), PR fusionnées sur obscura, gmod-glide et wayland-mcp, disponible pour un CDI dès novembre 2026" width="100%" />
 </div>
 
-> **Charlie Dallier-Wood** — full stack developer (TypeScript, Rust, PHP), based in Angers. I take over existing products, ship them to production with tests and CI, and work with AI agents through documented workflows. **Open to a CDI from November 2026.**
+> **Charlie Dallier-Wood** — développeur full stack (TypeScript, Rust, PHP) basé à Angers. Je reprends des produits existants, je les mets en production avec tests et CI, et je travaille avec des agents IA grâce à des workflows documentés. **Disponible pour un CDI dès novembre 2026.**
 
-### How I work with AI
+### Ma façon de travailler avec l'IA
 
-Not prompt-by-prompt: a setup I can show.
+Pas au coup par coup : un dispositif que je peux montrer.
 
-- **Project instructions** (`CLAUDE.md`) and **architecture decision records** to keep an agent on the rails: 14 ADRs on a client SaaS delivered in 6 weeks.
-- **Tests and CI on every change** as the safety net for generated code.
-- **MCP servers** I build and use: [hammer-mcp](https://github.com/ProjectSocietyStudio/hammer-mcp) (Source engine maps), [wayland-mcp](https://github.com/kurojs/wayland-mcp) (contribution).
-- **Syacode**: [my fork of OpenCode](https://github.com/Sycatle/opencode) tuned for token cost (-47% on tool definitions, -52% on the skills list, prompt cache preserved).
+- **Instructions de projet** (`CLAUDE.md`) et **décisions d'architecture documentées** pour garder un agent dans les rails : 14 ADR sur un SaaS client livré en 6 semaines.
+- **Tests et CI à chaque modification** : le filet de sécurité du code généré.
+- **Serveurs MCP** que je développe et utilise : [hammer-mcp](https://github.com/ProjectSocietyStudio/hammer-mcp) (cartes Source Engine), [wayland-mcp](https://github.com/kurojs/wayland-mcp) (contribution).
+- **Syacode** : [mon fork d'OpenCode](https://github.com/Sycatle/opencode) optimisé pour le coût en tokens (−47 % sur les définitions d'outils, −52 % sur la liste des skills, cache de prompt préservé).
 
-### Projects
+### Projets
 
-- **[whispee](https://github.com/Sycatle/whispee)** — end-to-end encrypted messenger on MLS (RFC 9420). Rust core compiled to WebAssembly, Axum server, React client. A learning project.
-- **[local-jarvis](https://github.com/Sycatle/local-jarvis)** — 100% local voice assistant for Linux (Rust, systemd, D-Bus, Whisper, Qwen2.5, Kokoro).
-- **[curriculum-generator](https://github.com/Sycatle/curriculum-generator)** — self-hosted CV builder with live PDF preview, an ATS score and DOCX export.
-- **[asap-website-builder](https://github.com/Sycatle/asap-website-builder)** — ship a professional website in minutes. Self-hostable.
-- **[deviso.pro](https://deviso.pro)** — quoting and invoicing SaaS for landscapers.
+- **[whispee](https://github.com/Sycatle/whispee)** — messagerie chiffrée de bout en bout sur MLS (RFC 9420). Noyau Rust compilé en WebAssembly, serveur Axum, client React. Projet d'apprentissage.
+- **[local-jarvis](https://github.com/Sycatle/local-jarvis)** — assistant vocal 100 % local pour Linux (Rust, systemd, D-Bus, Whisper, Qwen2.5, Kokoro).
+- **[curriculum-generator](https://github.com/Sycatle/curriculum-generator)** — générateur de CV auto-hébergé : aperçu PDF en direct, score ATS et export DOCX.
+- **[asap-website-builder](https://github.com/Sycatle/asap-website-builder)** — un site professionnel en quelques minutes, auto-hébergeable.
+- **[deviso.pro](https://deviso.pro)** — SaaS de devis et factures pour paysagistes.
 
-### Open source contributions
+### Contributions open source
 
-- **[obscura](https://github.com/h4ckf0r0day/obscura)** (28k+ stars) — 3 merged PRs, including a V8 abort fix under concurrent CDP connections.
-- **[gmod-glide](https://github.com/StyledStrike/gmod-glide)** — 4 merged PRs.
-- **[wayland-mcp](https://github.com/kurojs/wayland-mcp)** — merged PR: capability-based backend selection and COSMIC support.
+- **[obscura](https://github.com/h4ckf0r0day/obscura)** (28 000+ étoiles) — 3 PR fusionnées, dont un correctif d'abandon V8 sous connexions CDP concurrentes.
+- **[gmod-glide](https://github.com/StyledStrike/gmod-glide)** — 4 PR fusionnées.
+- **[wayland-mcp](https://github.com/kurojs/wayland-mcp)** — PR fusionnée : sélection du backend par capacités et prise en charge de COSMIC.
 
 **Stack** — TypeScript · React · Next.js · React Native · PHP · Rust (Axum) · PostgreSQL · Docker · GitHub Actions · Playwright · Vitest · Claude Code · MCP
 
-[LinkedIn](https://www.linkedin.com/in/charliedallierwood/) · [charlie@sycode.fr](mailto:charlie@sycode.fr) · [Case studies](https://sycode.fr/case-studies)
+[LinkedIn](https://www.linkedin.com/in/charliedallierwood/) · [charlie@sycode.fr](mailto:charlie@sycode.fr) · [Études de cas](https://sycode.fr/case-studies)
