@@ -8,7 +8,7 @@
 
 Not prompt-by-prompt: a setup I can show.
 
-- **Project instructions** (`CLAUDE.md`) and **architecture decision records** to keep an agent on the rails: 14 ADRs on a client SaaS delivered in 7 weeks.
+- **Project instructions** (`CLAUDE.md`) and **architecture decision records** to keep an agent on the rails: 14 ADRs on a client SaaS delivered in 6 weeks.
 - **Tests and CI on every change** as the safety net for generated code.
 - **MCP servers** I build and use: [hammer-mcp](https://github.com/ProjectSocietyStudio/hammer-mcp) (Source engine maps), [wayland-mcp](https://github.com/kurojs/wayland-mcp) (contribution).
 - **Syacode**: [my fork of OpenCode](https://github.com/Sycatle/opencode) tuned for token cost (-47% on tool definitions, -52% on the skills list, prompt cache preserved).
@@ -29,4 +29,4 @@ Not prompt-by-prompt: a setup I can show.
 
 **Stack** — TypeScript · React · Next.js · React Native · PHP · Rust (Axum) · PostgreSQL · Docker · GitHub Actions · Playwright · Vitest · Claude Code · MCP
 
-[LinkedIn](https://www.linkedin.com/in/charliedallierwood/) · [charlie.dallier-wood@pm.me](mailto:charlie.dallier-wood@pm.me) · [Case studies](https://sycode.fr/case-studies)
+[LinkedIn](https://www.linkedin.com/in/charliedallierwood/) · [charlie@sycode.fr](mailto:charlie@sycode.fr) · [Case studies](https://sycode.fr/case-studies)
